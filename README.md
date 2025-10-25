@@ -1,0 +1,2 @@
+# Lanshan_practice
+go
